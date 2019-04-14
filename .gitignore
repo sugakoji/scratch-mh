@@ -1,0 +1,23 @@
+# cache
+__pycache__/
+.pytest_cache
+.cache/
+
+# idea
+.idea/
+
+# mac system file
+.DS_Store
+
+# database
+db.sqlite3
+
+# jupyter notebook
+.ipynb_checkpoints
+
+#dump file
+.pickle
+
+
+# 残すファイル
+!.gitkeep
